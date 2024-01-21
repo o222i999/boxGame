@@ -1,0 +1,10 @@
+C:\Users\brand\Desktop\coding\boxGame\boxGame\bin\Debug\boxGame.exe.config
+C:\Users\brand\Desktop\coding\boxGame\boxGame\bin\Debug\boxGame.exe
+C:\Users\brand\Desktop\coding\boxGame\boxGame\bin\Debug\boxGame.pdb
+C:\Users\brand\Desktop\coding\boxGame\boxGame\obj\Debug\boxGame.csproj.AssemblyReference.cache
+C:\Users\brand\Desktop\coding\boxGame\boxGame\obj\Debug\boxGame.Form1.resources
+C:\Users\brand\Desktop\coding\boxGame\boxGame\obj\Debug\boxGame.Properties.Resources.resources
+C:\Users\brand\Desktop\coding\boxGame\boxGame\obj\Debug\boxGame.csproj.GenerateResource.cache
+C:\Users\brand\Desktop\coding\boxGame\boxGame\obj\Debug\boxGame.csproj.CoreCompileInputs.cache
+C:\Users\brand\Desktop\coding\boxGame\boxGame\obj\Debug\boxGame.exe
+C:\Users\brand\Desktop\coding\boxGame\boxGame\obj\Debug\boxGame.pdb
